@@ -1,5 +1,9 @@
 # 💫 About Me:
-🇬🇧 In the UK<br>🦀 Currently working on my Game Engine
+Hi i am a developer based in the England
+
+🦀 Currently working on my Game Engine
+
+I mostly work on backend stuff --> C/C++ , Rust 
 
 
 ## 🌐 Socials:
