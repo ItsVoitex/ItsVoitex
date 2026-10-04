@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi i am a developer based in the England
+Hi i am a developer based in England
 
 🦀 Currently working on my Game Engine
 
