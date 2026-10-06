@@ -3,7 +3,7 @@ Hi i am a developer based in England
 
 🦀 Currently working on my Game Engine
 
-I mostly work on backend stuff --> C/C++ , Rust 
+Just a C/C++,Rust developer
 
 
 
