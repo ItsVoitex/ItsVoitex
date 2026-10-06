@@ -1,9 +1,8 @@
 # 💫 About Me:
-Hi i am a developer based in England
+Hi im a C/C++ and Rust developer
 
 🦀 Currently working on my Game Engine
 
-Just a C/C++,Rust developer
 
 
 
