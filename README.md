@@ -1,5 +1,6 @@
 # 💫 About Me:
-<img src="github/c.png" width="60" height="55" />
+<img src="github/c.png" width="60" height="55" /> <img src="github/c++.png" width="60" height="55" />
+
 Hi im a C/C++ and Rust developer
 
 🦀 Currently working on my Game Engine
