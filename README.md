@@ -1,4 +1,4 @@
-<img src="github/textpng"/>
+<img src="github/text.png"/>
 🦀 Currently working on my Game Engine
 
 
