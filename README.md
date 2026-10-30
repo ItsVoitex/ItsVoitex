@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img src="github/c.png"/>
+<img src="github/c.png" width="50" height="20" />
 Hi im a C/C++ and Rust developer
 
 🦀 Currently working on my Game Engine
