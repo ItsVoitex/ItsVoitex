@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img src="github/c.png" width="60" height="55" /> <img src="github/c++.png" width="60" height="55" />
+<img src="github/c.png" width="60" height="55" /> <img src="github/cpp.png" width="60" height="55" />
 
 Hi im a C/C++ and Rust developer
 
