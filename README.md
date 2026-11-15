@@ -5,7 +5,7 @@
 
 
 # 🛠️Languages
- <img src="github/cpp.png" width="60" height="55" /> <img src="github/rust.png" width="60" height="55" /> <img src="github/c.png" width="60" height="55" /> <img src="github/python.jpg" width="60" height="55" />
+ <img src="github/cpp.png" width="60" height="55" /> <img src="github/rust.png" width="60" height="55" /> <img src="github/c.png" width="60" height="55" /> <img src="github/python.png" width="60" height="55" />
 
 
 
